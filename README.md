@@ -1,4 +1,4 @@
-# MNVS_ATM **SPOILER**
+# MNVS_ATM  -SPOILER-
 
 ## Introduction
 > A skirpt with which you can break ATMs and steal the money
